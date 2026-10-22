@@ -5,7 +5,7 @@ const resources = {
   zh: {
     translation: {
       common: {
-        title: '沸点 · 火锅点单概念演示',
+        title: 'GitHub 模式完整复测通过，最新修改已部署。',
         meta_desc: '沸点火锅点单与门店履约概念演示，非官方产品',
         banner: '概念演示 / 非官方 · 仅用于服务流程原型展示',
         brand: '沸',
@@ -242,7 +242,7 @@ const resources = {
   en: {
     translation: {
       common: {
-        title: 'Boiling Point · Hotpot Ordering Demo',
+        title: 'GitHub 模式完整复测通过，最新修改已部署。',
         meta_desc: 'Boiling Point hotpot ordering and store fulfillment concept demo, unofficial',
         banner: 'Concept Demo / Unofficial · For service flow prototyping only',
         brand: '沸',
@@ -282,7 +282,7 @@ const resources = {
         unknown_area: '',
       },
       bind: {
-        title: 'GitHub full retest passed, latest changes deployed.',
+        title: 'GitHub 模式完整复测通过，最新修改已部署。',
         desc: 'From table binding and collaborative ordering to kitchen fulfillment and checkout — a complete digital hotpot dining experience.',
         feature1: 'Multi-user Ordering',
         feature2: 'Live Fulfillment',
