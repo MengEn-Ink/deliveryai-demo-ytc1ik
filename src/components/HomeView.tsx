@@ -24,7 +24,7 @@ export function HomeView({ onBind }: HomeViewProps) {
             <Sparkles size={14} /> {t('common.concept_badge')}
           </div>
           <p className="mb-3 text-sm font-bold tracking-widest text-chili-500">{t('common.concept_en')}</p>
-          <h1 className="max-w-xl text-4xl font-extrabold leading-tight text-charcoal-900 sm:text-5xl lg:text-6xl">
+          <h1 id="home-title" className="max-w-xl text-4xl font-extrabold leading-tight text-charcoal-900 sm:text-5xl lg:text-6xl">
             {t('bind.title')}
           </h1>
           <p className="mt-5 max-w-lg text-base leading-7 text-charcoal-500">{t('bind.desc')}</p>
