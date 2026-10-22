@@ -45,8 +45,7 @@ const resources = {
         unknown_area: '',
       },
       bind: {
-        title_l1: '热气升腾，',
-        title_l2: '好味即刻开场。',
+        title: 'GitHub 模式完整复测通过，最新修改已部署。',
         desc: '从桌台绑定、多人协同点餐，到后厨履约与结账，一次完整走通火锅门店数字服务。',
         feature1: '多人同步点餐',
         feature2: '履约状态可视',
@@ -283,8 +282,7 @@ const resources = {
         unknown_area: '',
       },
       bind: {
-        title_l1: 'Steam rising,',
-        title_l2: 'great flavors begin now.',
+        title: 'GitHub full retest passed, latest changes deployed.',
         desc: 'From table binding and collaborative ordering to kitchen fulfillment and checkout — a complete digital hotpot dining experience.',
         feature1: 'Multi-user Ordering',
         feature2: 'Live Fulfillment',

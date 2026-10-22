@@ -25,7 +25,7 @@ export function HomeView({ onBind }: HomeViewProps) {
           </div>
           <p className="mb-3 text-sm font-bold tracking-widest text-chili-500">{t('common.concept_en')}</p>
           <h1 className="max-w-xl text-4xl font-extrabold leading-tight text-charcoal-900 sm:text-5xl lg:text-6xl">
-            {t('bind.title_l1')}<br /><span className="text-chili-500">{t('bind.title_l2')}</span>
+            {t('bind.title')}
           </h1>
           <p className="mt-5 max-w-lg text-base leading-7 text-charcoal-500">{t('bind.desc')}</p>
           <div className="mt-7 flex flex-wrap gap-3 text-sm text-charcoal-700">
